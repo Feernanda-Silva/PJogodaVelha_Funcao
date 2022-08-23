@@ -1,0 +1,16 @@
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\bin\Debug\net5.0\PJogodaVelha_Funcao.exe
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\bin\Debug\net5.0\PJogodaVelha_Funcao.deps.json
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\bin\Debug\net5.0\PJogodaVelha_Funcao.runtimeconfig.json
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\bin\Debug\net5.0\PJogodaVelha_Funcao.runtimeconfig.dev.json
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\bin\Debug\net5.0\PJogodaVelha_Funcao.dll
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\bin\Debug\net5.0\PJogodaVelha_Funcao.pdb
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.csproj.AssemblyReference.cache
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.dll
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\refint\PJogodaVelha_Funcao.dll
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.pdb
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\PJogodaVelha_Funcao.genruntimeconfig.cache
+C:\Users\Fernanda\source\repos\PJogodaVelha_Funcao\PJogodaVelha_Funcao\obj\Debug\net5.0\ref\PJogodaVelha_Funcao.dll
